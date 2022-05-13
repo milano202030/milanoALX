@@ -1,4 +1,4 @@
 # milanoALX
-My 
-first repository on GitHub
+Hello World
+My first repository on GitHub
 I love ☕ 🍕, and 💃.
